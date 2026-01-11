@@ -23,6 +23,8 @@ _No NAT pain. No port forwarding nightmares. Just works™._
 
 You’ll also find our ultra-simple kill switch in the repo — because sometimes the smartest move is knowing when to shut everything down instantly.
 
-This was prototype #1, built during finals season (surprisingly survived), and yes — we already have cooler, scarier ideas planned for what comes next 😈
+This was prototype #1, built during finals season (surprisingly survived), and yes... we already have cooler, scarier ideas planned for what comes next 😈
 
 Stay tuned.
+
+![image](/poc_image_1.jpeg)
